@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B72A333-D211-6EC0-A0C5-7C50CBD60959}|DBTESTE\\DBTESTE.sqlproj|c:\\users\\joaof\\onedrive\\documentos\\projetos\\pc-joaofabel-home\\dbteste\\dbteste\\script-teste-copilot.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{9B72A333-D211-6EC0-A0C5-7C50CBD60959}|DBTESTE\\DBTESTE.sqlproj|solutionrelative:dbteste\\script-teste-copilot.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{f3a1c5d6-8e9b-4c2a-b5f7-3d6e8a9c1b4f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script-teste-copilot.sql - not connected",
+              "DocumentMoniker": "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE\\DBTESTE\\script-teste-copilot.sql",
+              "RelativeDocumentMoniker": "DBTESTE\\script-teste-copilot.sql",
+              "ToolTip": "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE\\DBTESTE\\script-teste-copilot.sql - not connected",
+              "RelativeToolTip": "DBTESTE\\script-teste-copilot.sql - not connected",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-12T05:15:54.145Z",
+              "EditorCaption": " - not connected"
             }
           ]
         }

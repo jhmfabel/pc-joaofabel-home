@@ -1,3 +1,6 @@
+use dbteste
+go
+
 SELECT
     p.IdPessoa,
     UPPER(p.Nome) AS Nome,
