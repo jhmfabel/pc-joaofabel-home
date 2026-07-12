@@ -1,0 +1,5 @@
+C:\Users\joaof\OneDrive\Documentos\Projetos\pc-joaofabel-home\DBTESTE2\DBTESTE2\bin\Debug\DBTESTE.dacpac
+C:\Users\joaof\OneDrive\Documentos\Projetos\pc-joaofabel-home\DBTESTE2\DBTESTE2\obj\Debug\Model.xml
+C:\Users\joaof\OneDrive\Documentos\Projetos\pc-joaofabel-home\DBTESTE2\DBTESTE2\obj\Debug\refactor.xml
+C:\Users\joaof\OneDrive\Documentos\Projetos\pc-joaofabel-home\DBTESTE2\DBTESTE2\obj\Debug\postdeploy.sql
+C:\Users\joaof\OneDrive\Documentos\Projetos\pc-joaofabel-home\DBTESTE2\DBTESTE2\obj\Debug\predeploy.sql

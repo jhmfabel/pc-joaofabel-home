@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE2\\DBTESTE2\\DBTESTE.sqlproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE2\\DBTESTE2\\DBTESTE.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE2\\DBTESTE2\\DBTESTE.sqlproj",
+        "projectName": "DBTESTE",
+        "projectPath": "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE2\\DBTESTE2\\DBTESTE.sqlproj",
+        "packagesPath": "C:\\Users\\joaof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaof\\OneDrive\\Documentos\\Projetos\\pc-joaofabel-home\\DBTESTE2\\DBTESTE2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
